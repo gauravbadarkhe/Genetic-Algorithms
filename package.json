@@ -1,0 +1,19 @@
+{
+  "name": "genetic-algorithms",
+  "version": "1.0.0",
+  "description": "Implementaion Of Genetic Algos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravbadarkhe/Genetic-Algorithms.git"
+  },
+  "author": "MadGaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravbadarkhe/Genetic-Algorithms/issues"
+  },
+  "homepage": "https://github.com/gauravbadarkhe/Genetic-Algorithms#readme"
+}
